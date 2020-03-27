@@ -1,3 +1,3 @@
 # go-start
 
-Basic Go porject for learn the basics
+Basic Go porject
