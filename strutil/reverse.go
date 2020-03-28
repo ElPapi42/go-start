@@ -1,4 +1,4 @@
-// Package stringutil contains utility functions for working with strings.
+// Package strutil contains utility functions for working with strings.
 package strutil
 
 // Reverse returns its argument string reversed rune-wise left to right.
